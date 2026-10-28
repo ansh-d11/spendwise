@@ -2,6 +2,8 @@
 
 A full-stack MERN (MongoDB, Express.js, React, Node.js) personal finance management web application. SpendWise enables users to track income and expenses, establish category-specific monthly budgets with visual alert thresholds, and visualize macro-financial cashflow trends through interactive Recharts analytics.
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/ansh-d11/spendwise)
+
 ---
 
 ## 🌟 Features
